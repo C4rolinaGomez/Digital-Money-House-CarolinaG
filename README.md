@@ -1,4 +1,6 @@
 # Digital Money House
+<img width="891" height="702" alt="image" src="https://github.com/user-attachments/assets/fde03f80-3ec9-444d-aea3-81bc3f2e6e98" />
+
 
 1. [Descripción](#descripción)
 2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
