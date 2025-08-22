@@ -20,7 +20,7 @@ Este proyecto lo desarrollé como parte del desafío profesional de la certifica
 - **Sonner** (Notificaciones)
 
 
-🛠️ 📌 Funcionalidades principales
+## 🛠️ Funcionalidades principales
 
 - ✅ Registro e inicio de sesión con autenticación mediante token.
 - 💳 Administración de tarjetas asociadas y datos de cuenta.
@@ -29,7 +29,7 @@ Este proyecto lo desarrollé como parte del desafío profesional de la certifica
 - 📱 Diseño responsive y accesible.
 - 📋 Copia rápida de alias y CVU.
 
-🔧 📦 Instalación y ejecución
+## 🔧 Instalación y ejecución
 
 ### 1️⃣ Clonar el repositorio
 ```bash
